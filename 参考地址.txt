@@ -1,1 +1,7 @@
 https://www.jianshu.com/p/0a93fd0e608a
+
+//竞品1
+http://www.apexyun.com/hystrixyu-shao-bing-liang-ge-duan-lu-qi-de-gu-shi-di-yi-bu-fen/
+
+//竞品2
+resilience4j 
